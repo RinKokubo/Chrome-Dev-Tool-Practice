@@ -1,4 +1,6 @@
 let myNumber = 10;
+console.log("This is a message from the source code.");
+console.log("The value of myNumber is: ", myNumber);
 
 function fetchData() {
   fetch('data.json')
