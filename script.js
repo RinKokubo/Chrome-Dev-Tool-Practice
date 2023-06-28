@@ -1,4 +1,5 @@
 let myNumber = 10;
+console.log("The value of myNumber is: ", myNumber);
 
 function fetchData() {
   fetch('data.json')
